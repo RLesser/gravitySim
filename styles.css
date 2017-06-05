@@ -1,0 +1,9 @@
+body, #viewport {
+  margin: 0;
+  background: #171717;
+  height: 100%;
+}
+
+.pjs-meta {
+  color: #fff;
+}
